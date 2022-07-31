@@ -270,7 +270,8 @@ color: rgba(255, 255, 255, 0.389);
     }
     .nav a {
         display: inline;
-        margin-left: 10px;
+        position:relative;
+        left: 200px;
     }
     .intro{
         margin-top: -210px;
