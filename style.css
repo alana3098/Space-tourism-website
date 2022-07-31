@@ -264,7 +264,7 @@ color: rgba(255, 255, 255, 0.389);
 }
 @media only screen and (max-device-width:750px){
     .nav {
-        width: 600px;
+        width: 900px;
         position:relative;
         left: -190px;
     }
