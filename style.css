@@ -266,8 +266,7 @@ color: rgba(255, 255, 255, 0.389);
     .nav {
         width: 100%;
         position:relative;
-        left: 700px;
-        display: inline;
+        left: -700px;
     }
     .intro{
         margin-top: -210px;
