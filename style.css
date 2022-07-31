@@ -7,6 +7,7 @@
     color: white;
     margin-left: 70px;
     display:inline;
+    width: 100%;
     
 }
 .nav {
@@ -264,9 +265,9 @@ color: rgba(255, 255, 255, 0.389);
 }
 @media only screen and (max-width:800px){
     .nav {
-        width: 80%;
+        width: 100%;
         position:relative;
-        left: -750px;
+        left: -250px;
         display: inline-block;
     }
     .intro{
