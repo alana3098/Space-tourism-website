@@ -264,9 +264,12 @@ color: rgba(255, 255, 255, 0.389);
 }
 @media only screen and (max-device-width:750px){
     .nav {
-        width: 1000px;
+        width: 100%;
         position:relative;
         left: -190px;
+    }
+    .nav a {
+        display: inline;
     }
     .intro{
         margin-top: -210px;
