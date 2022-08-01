@@ -293,7 +293,7 @@ color: rgba(255, 255, 255, 0.389);
     .close {
         background-color: rgba(240, 234, 234, 0.09);
         color: white;
-        margin-left: 160px;
+        margin-left: 60px;/*position button on left corner*/
         font-size: large;
     }
     .mobile-menu {
