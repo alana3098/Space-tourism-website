@@ -5,5 +5,5 @@ function openNav() {
 
 function closeNav() {
     document.getElementById("myMenu").style.width = "0px";
-    document.getElementById("myMenu").style.marginLeft = "450px";
+    document.getElementById("myMenu").style.marginLeft = "750px";
 }
